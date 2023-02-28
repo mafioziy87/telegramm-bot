@@ -3,7 +3,7 @@ import telebot
 from bs4 import BeautifulSoup as b
 import requests
 from telebot import types
-TOKEN = "6155737235:AAH17CxzJg7PyyipyJhFcGxzWhIcZBJgiRs"
+TOKEN = "5357730764:AAHdLR9oKsac0-WvHTq-tLyZQA8Jg9g3HuY"
 bot = telebot.TeleBot(TOKEN)
 
 #Бакалавр Иннополис
